@@ -16,6 +16,7 @@ const Announcement = () => {
 
 
 <Container>
+
     Super Deal! Free Delivery Nation wide on Orders above N20,000
 </Container>
   </div>;
